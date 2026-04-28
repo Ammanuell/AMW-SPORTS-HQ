@@ -9,8 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        "chelsea-blue": "#034694",
+        "chelsea-gold": "#DBA111",
+        "spurs-silver": "#c4ced4",
+        surface: "#111115",
+        "surface-2": "#1a1a1f",
       },
     },
   },
